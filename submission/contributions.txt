@@ -1,1 +1,3 @@
-Yinjia Liu: Inference of Alpaca and Alpaca-LoRA (baselines), survey of QA and pretrained language models, performance comparison of models, generating GPT-4 judgements
+Renyi Tang: Literature Review, Fine-tuned LlaMA with Adapter on AWS; Wrote Report
+Yinjia Liu: Literature Review, Generated Alpaca-LoRA based instruction following results; Performed GPT-4 Based Judge; Wrote Report
+Zhenlin Wang: Literature Review, Generated LLaMA-Adapter based instruction following results;  Performed GPT-4 Based Judge; Wrote Report
